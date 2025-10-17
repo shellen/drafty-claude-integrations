@@ -1,0 +1,46 @@
+{
+  "name": "@drafty/mcp-server",
+  "version": "1.0.0",
+  "description": "MCP server for Drafty.com blog post management in Claude Desktop",
+  "main": "dist/index.js",
+  "type": "module",
+  "bin": {
+    "drafty-mcp-server": "./dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch",
+    "prepare": "npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mcp",
+    "claude",
+    "drafty",
+    "blog",
+    "model-context-protocol",
+    "ai",
+    "anthropic"
+  ],
+  "author": "Drafty",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/drafty-claude-integrations.git",
+    "directory": "mcp-server"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/drafty-claude-integrations/issues"
+  },
+  "homepage": "https://github.com/yourusername/drafty-claude-integrations#readme",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.20.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.3.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
