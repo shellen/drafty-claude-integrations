@@ -26,13 +26,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/drafty-claude-integrations.git",
+    "url": "https://github.com/shellen/drafty-claude-integrations.git",
     "directory": "mcp-server"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/drafty-claude-integrations/issues"
+    "url": "https://github.com/shellen/drafty-claude-integrations/issues"
   },
-  "homepage": "https://github.com/yourusername/drafty-claude-integrations#readme",
+  "homepage": "https://github.com/shellen/drafty-claude-integrations#readme",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.20.0"
   },

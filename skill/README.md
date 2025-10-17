@@ -7,7 +7,7 @@ Type `/drafty` in Claude Code to create and manage blog posts on Drafty.com.
 ### Install
 
 ```bash
-git clone https://github.com/yourusername/drafty-claude-integrations
+git clone https://github.com/shellen/drafty-claude-integrations
 cd drafty-claude-integrations
 # Claude Code will discover skill/ directory automatically
 ```
@@ -143,7 +143,7 @@ MIT
 
 ## Links
 
-- [Main Integration Repo](https://github.com/yourusername/drafty-claude-integrations)
+- [Main Integration Repo](https://github.com/shellen/drafty-claude-integrations)
 - [Drafty.com](https://www.drafty.com)
 - [Agent Skills Guide](https://docs.anthropic.com/claude/docs/agent-skills)
-- [Report Issues](https://github.com/yourusername/drafty-claude-integrations/issues)
+- [Report Issues](https://github.com/shellen/drafty-claude-integrations/issues)

@@ -35,7 +35,7 @@ Type `/drafty` in Claude Code to activate blog post workflows.
 
 **Quick Start:**
 ```bash
-git clone https://github.com/yourusername/drafty-claude-integrations
+git clone https://github.com/shellen/drafty-claude-integrations
 cd drafty-claude-integrations
 # Claude Code will discover skill/ automatically
 ```
@@ -90,7 +90,7 @@ Restart Claude Desktop and look for the 🔨 hammer icon.
 #### Option 2: Install from source
 
 ```bash
-git clone https://github.com/yourusername/drafty-claude-integrations
+git clone https://github.com/shellen/drafty-claude-integrations
 cd drafty-claude-integrations/mcp-server
 npm install
 npm run build
@@ -103,7 +103,7 @@ Then configure with absolute path to `dist/index.js`.
 #### Option 1: Clone entire repo
 
 ```bash
-git clone https://github.com/yourusername/drafty-claude-integrations
+git clone https://github.com/shellen/drafty-claude-integrations
 cd drafty-claude-integrations
 # Claude Code will discover skill/ directory
 ```
@@ -111,7 +111,7 @@ cd drafty-claude-integrations
 #### Option 2: Symlink just the skill
 
 ```bash
-git clone https://github.com/yourusername/drafty-claude-integrations
+git clone https://github.com/shellen/drafty-claude-integrations
 ln -s "$(pwd)/drafty-claude-integrations/skill" ~/.config/claude/skills/drafty
 ```
 
@@ -248,7 +248,7 @@ Found a bug or want to contribute?
 ## Support
 
 - **Drafty Issues**: support@drafty.com
-- **MCP Issues**: [GitHub Issues](https://github.com/yourusername/drafty-claude-integrations/issues)
+- **MCP Issues**: [GitHub Issues](https://github.com/shellen/drafty-claude-integrations/issues)
 - **MCP Protocol**: https://github.com/anthropics/mcp/issues
 
 ## License

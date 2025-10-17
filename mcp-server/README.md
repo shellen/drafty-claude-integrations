@@ -13,7 +13,7 @@ npm install -g @drafty/mcp-server
 ### Install from Source
 
 ```bash
-git clone https://github.com/yourusername/drafty-claude-integrations
+git clone https://github.com/shellen/drafty-claude-integrations
 cd drafty-claude-integrations/mcp-server
 npm install
 npm run build
@@ -205,7 +205,7 @@ MIT
 
 ## Links
 
-- [Main Integration Repo](https://github.com/yourusername/drafty-claude-integrations)
+- [Main Integration Repo](https://github.com/shellen/drafty-claude-integrations)
 - [Drafty.com](https://www.drafty.com)
 - [MCP Documentation](https://modelcontextprotocol.io)
-- [Report Issues](https://github.com/yourusername/drafty-claude-integrations/issues)
+- [Report Issues](https://github.com/shellen/drafty-claude-integrations/issues)
