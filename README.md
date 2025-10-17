@@ -46,7 +46,7 @@ cd drafty-claude-integrations
 
 Both integrations require:
 
-1. **Drafty Pro account** ($5/month after 7-day trial)
+1. **Drafty Pro account**
 2. **API key** from your Drafty settings
 
 ### Getting Your API Key
